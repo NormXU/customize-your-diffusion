@@ -1,0 +1,11 @@
+nose
+python-Levenshtein==0.12.2
+huggingface_hub
+tokenizers
+regex
+sacremoses
+sentencepiece
+seqeval==0.0.12
+filelock
+transformers==4.24.0
+loralib

@@ -1,0 +1,6 @@
+-r requirements/base.txt
+-r requirements/transformer.txt
+-r requirements/diffusion.txt
+timm
+tensorboard
+protobuf==3.20.0

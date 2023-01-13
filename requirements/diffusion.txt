@@ -1,0 +1,11 @@
+einops
+kornia
+taming-transformers-rom1504
+clip
+kornia
+zhconv
+diffusers
+#  or you can
+# cd diffusers
+# pip install -e ".[torch]"
+#  from source
